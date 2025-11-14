@@ -1,5 +1,5 @@
 requests
 urllib3
 psutil
-aiohttp                                    asyncio
+aiohttp
 pyfigle
