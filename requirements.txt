@@ -1,4 +1,5 @@
 requests
-urllib3                                                psutil
-aiohttp                                                asyncio
-pyfiglet
+urllib3
+psutil
+aiohttp                                    asyncio
+pyfigle
